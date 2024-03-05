@@ -9,9 +9,19 @@
 <div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=IevgeniiKozlov&style=flat-square&color=blue" alt=""/>
 </div>
-
-
 <h1 align="center">
-  hey there
+  Hey there! Welcome to my GitHub
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+
+### About Me :man_technologist: :
+I am a motivated frontend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine with 1 year of hands-on experience, dedicated to crafting pixel-perfect, responsive, and user-friendly web applications. I thrive on turning creative ideas into visually appealing and functional websites.
+
+<h3 align="left">Technologies That I Know</h3>
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,figma,html,css,tailwind,sass,js,ts,react,nextjs,gatsby,materialui,docker,mongodb,prisma,postman," />
+  </a>
+</p>
+
