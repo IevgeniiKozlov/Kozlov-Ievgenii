@@ -38,4 +38,4 @@ I am a motivated frontend developer <img src="https://media.giphy.com/media/WUlp
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IevgeniiKozlov&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AkiraRapira)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AkiraRapira&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
